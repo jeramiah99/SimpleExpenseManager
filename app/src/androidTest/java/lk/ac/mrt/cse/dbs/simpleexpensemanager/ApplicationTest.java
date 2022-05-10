@@ -23,6 +23,8 @@ import androidx.test.core.app.ApplicationProvider;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 import androidx.test.filters.MediumTest;
 
+import static com.google.common.truth.Truth.assertThat;
+
 import org.junit.Before;
 import org.junit.FixMethodOrder;
 import org.junit.Test;
@@ -106,7 +108,7 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 
     @Test
     public void test(){
-        assert true;
+        assertThat(true).isTrue();
     }
 
     // @Test

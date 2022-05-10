@@ -22,6 +22,7 @@ android {
 
     defaultConfig {
         applicationId "lk.ac.mrt.cse.dbs.simpleexpensemanager"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1

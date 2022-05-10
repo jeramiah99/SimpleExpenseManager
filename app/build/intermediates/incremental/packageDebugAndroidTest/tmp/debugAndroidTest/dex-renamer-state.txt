@@ -1,0 +1,4 @@
+#Tue May 10 19:20:33 IST 2022
+base.0=/home/jananga/Desktop/SE_Workglow/Jeramiah/SimpleExpenseManager/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

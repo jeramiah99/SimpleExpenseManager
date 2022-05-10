@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jananga/Desktop/SE_Workglow/Jeramiah/SimpleExpenseManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/jananga/.gradle/caches/transforms-3/959d21c0c19b412425ceb61ead9cec7d/transformed/appcompat-v7-26.1.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/jananga/.gradle/caches/transforms-3/8597faa0de4b29e847374b2eb26f85bf/transformed/design-26.1.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}
